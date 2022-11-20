@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32930.78
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "VolMixerOnWin11", "VolMixerOnWin11\VolMixerOnWin11.pyproj", "{81E2BE9E-F219-48E2-A321-897121AF90C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81E2BE9E-F219-48E2-A321-897121AF90C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81E2BE9E-F219-48E2-A321-897121AF90C5}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{81E2BE9E-F219-48E2-A321-897121AF90C5}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{81E2BE9E-F219-48E2-A321-897121AF90C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81E2BE9E-F219-48E2-A321-897121AF90C5}.Release|x64.ActiveCfg = Release|Any CPU
+		{81E2BE9E-F219-48E2-A321-897121AF90C5}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BD5B520-B8CA-4304-A8A3-A2B5991945CA}
+	EndGlobalSection
+EndGlobal
