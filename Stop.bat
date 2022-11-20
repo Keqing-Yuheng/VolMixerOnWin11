@@ -1,0 +1,1 @@
+@taskkill /im VolMixerOnWin11.exe /f
